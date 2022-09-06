@@ -20,7 +20,7 @@ Deploy no netfly como o outro. Estou trabalhando em uma versão Local Storage ag
 ![example-four](https://user-images.githubusercontent.com/29557719/188647859-af5403bf-2aab-450c-8a9a-34f3da0d9e3a.jpeg)/
 
 
-## Confira os estágios e esfeitos visuais que o projeto apresenta:
+## Confira os estágios e efeitos visuais que o projeto apresenta:
 - Quando a tarefa está completa
 
 ![example-three](https://user-images.githubusercontent.com/29557719/188649270-91a017a4-72e2-4b0f-a202-0cef9f5d98a2.jpeg)
