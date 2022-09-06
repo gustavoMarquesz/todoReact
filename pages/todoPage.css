@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+html{
+    display: flex;
+    color: white;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+input{
+    flex-direction: column;
+    height: 20px;
+    border: 0.1px solid;
+    border-radius: 15px;
+    max-width: 200px;
+}
+
+.todoContainer{
+    display: flex;
+    padding-top: 100px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+
+.tasks{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.time{
+    padding-top: 15px;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.inputSubmit{
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.inputSubmit input{
+   display: flex;
+   justify-content: center;
+   align-items:center ;
+    width: 100px;
+    height: 25px;
+}
+
+.trash{
+    color: white;
+    transition: 0.5s;
+}
+
+.trash:hover{
+    color: red;
+}
+
+.todoDone{
+    transition: 0.5s;
+    padding: 2%;
+    border-radius: 8px;
+    background-color: green;
+    text-decoration: line-through;
+}
+
+.actions{
+    display: flex;
+    gap: 20px;
+}
+
+.tasksContainer{
+    position: relative;
+    top: 20px;
+    width: 300px;
+    right: 15px;
+    padding: 5%;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.4);
+    transition: 0.5s;
+}
+
+.todosRender{
+    transition: 0.5s;
+    border-top: 2px solid;
+}
+
+.todosRender:hover{
+    padding: 2%;
+    border-radius: 5px;
+    background-color: green;
+}
+span{
+    height: 50px;
+}
