@@ -11,11 +11,7 @@ Deploy no netfly como o outro. Estou trabalhando em uma versão Local Storage ag
 ![example-one](https://user-images.githubusercontent.com/29557719/188645138-300bc5a2-43aa-449e-b6c5-e5a6f2c30b8d.jpeg)/
 
 
-#### A Lista de Tarefas foi feita a partir do conceito Mobile First, então o site se adapta de maneira agradável para 
-#### os Smartphones. Vale ressaltar que afim de estudar com mais proximidade a um projeto real com banco de dados, instalei o 
-#### Json server para fazer as requisições a um banco de dados ficticio. Utilizando o Fetch para fazer as requisições 
-#### GET, PUT e DELETE da lista, os itens iam para um server json com um Id, Title, Time e Done setado como False
-#### só mudando para True quando a tarefa estivesse completa, como você pode ver a seguir: 
+#### A Lista de Tarefas foi feita a partir do conceito Mobile First, então o site se adapta de maneira agradável para os Smartphones. Vale ressaltar que afim de estudar com mais proximidade a um projeto real com banco de dados, instalei o Json server para fazer as requisições a um banco de dados ficticio. Utilizando o Fetch para fazer as requisições GET, PUT e DELETE da lista, os itens iam para um server json com um Id, Title, Time e Done setado como False só mudando para True quando a tarefa estivesse completa, como você pode ver a seguir: 
 
 ![example-four](https://user-images.githubusercontent.com/29557719/188647859-af5403bf-2aab-450c-8a9a-34f3da0d9e3a.jpeg)/
 
