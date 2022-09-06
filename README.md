@@ -1,4 +1,6 @@
 ## A nova versão redesenhada para REACT da minha antiga [ToDo List](https://https://todo-g.netlify.app)
+Vale ressaltar que, como o projeto não está em Local Storage ou em um banco de dados Real, o mesmo não funciona se eu der  
+Deploy no netfly como o outro. Estou trabalhando em uma versão Local Storage agora para isso ser possível.
 ### 🔨 Foi usado:
 - Node
 - React 
@@ -11,11 +13,12 @@
 
 #### A Lista de Tarefas foi feita a partir do conceito Mobile First, então o site se adapta de maneira agradável para 
 #### os Smartphones. Vale ressaltar que afim de estudar com mais proximidade a um projeto real com banco de dados, instalei o 
-#### Json server para fazer as requisições ao um banco de dados ficticio. Utilizando o Fetch para fazer as requisições 
+#### Json server para fazer as requisições a um banco de dados ficticio. Utilizando o Fetch para fazer as requisições 
 #### GET, PUT e DELETE da lista, os itens iam para um server json com um Id, Title, Time e Done setado como False
 #### só mudando para True quando a tarefa estivesse completa, como você pode ver a seguir: 
 
 ![example-four](https://user-images.githubusercontent.com/29557719/188647859-af5403bf-2aab-450c-8a9a-34f3da0d9e3a.jpeg)/
+
 
 ## Confira os estágios e esfeitos visuais que o projeto apresenta:
 - Quando a tarefa está completa
@@ -28,6 +31,7 @@
 
 <h1>Bem, espero que você tenha gostado!</h1>
 <h2>Atenção!!! se for dar um Git Clone no projeto, o mesmo pode não funcionar! pelas seguites questões:</h2>
+
 - Você deve ter o node Instalado
 - React icons instalado
 - Json Server Instalado 
