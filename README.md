@@ -1,4 +1,4 @@
-## A nova versão redesenhada para REACT da minha antiga [ToDo List](https://https://todo-g.netlify.app)
+## A nova versão redesenhada para REACT da minha antiga [ToDo List](https://todo-g.netlify.app)
 Vale ressaltar que, como o projeto não está em Local Storage ou em um banco de dados Real, o mesmo não funciona se eu der  
 Deploy no netfly como o outro. Estou trabalhando em uma versão Local Storage agora para isso ser possível.
 ### 🔨 Foi usado:
